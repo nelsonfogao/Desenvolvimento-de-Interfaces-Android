@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigationfragment"
+    app:startDestination="@id/informacoesFragment">
+
+    <fragment
+        android:id="@+id/formacaoFragment"
+        android:name="com.example.atinterfaceb.FormacaoFragment"
+        android:label="fragment_formacao"
+        tools:layout="@layout/fragment_formacao" />
+    <fragment
+        android:id="@+id/experienciaFragment"
+        android:name="com.example.atinterfaceb.ExperienciaFragment"
+        android:label="fragment_experiencia"
+        tools:layout="@layout/fragment_experiencia" />
+    <fragment
+        android:id="@+id/informacoesFragment"
+        android:name="com.example.atinterfaceb.InformacoesFragment"
+        android:label="fragment_informacoes"
+        tools:layout="@layout/fragment_informacoes" />
+    <fragment
+        android:id="@+id/cursosFragment"
+        android:name="com.example.atinterfaceb.CursosFragment"
+        android:label="fragment_cursos"
+        tools:layout="@layout/fragment_cursos" />
+    <fragment
+        android:id="@+id/publicacoesFragment"
+        android:name="com.example.atinterfaceb.PublicacoesFragment"
+        android:label="fragment_publicacoes"
+        tools:layout="@layout/fragment_publicacoes" />
+</navigation>
