@@ -9,7 +9,7 @@ Formação
 Experiência Profissional
 Cursos
 Publicações
-
+![foto modelo](wF3MP12Rj-Xw201BrWFbVklnWVUsOczqbUcBOdfIB7GaJ71TSrEV2RpyGDRnIFofwwWZBfMvc50TiKhI3cHGqTImM66_aFGMas3u9bGaDROlGiy3-mKEDbXJGtusRBolBSn4mETi.jpg)
 
 Ao clicar em cada um desses itens, as respectivas informações devem ser exibidas na Tela Principal.
 
